@@ -13,7 +13,7 @@ import com.google.gson.Gson;
 
 public class CurrencyConverter {
 
-    private static final String API_KEY = "74b5950c8e9af3f6a02b3956";
+    private static final String API_KEY = "Set your API key";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
 
     public double convertUSDToBRL(double value , String coin, String coinConvert) {
